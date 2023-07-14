@@ -26,9 +26,6 @@ cd Daily-Journal
 Now install the required dependencies.  
 ```cd server
 npm install
-cd ..
-cd public
-npm install
 ```
 To start the servers, 
 ```
